@@ -1,0 +1,67 @@
+{
+  "scene1": {
+    "file": "public/audio/narration/scene1.mp3",
+    "duration": 6.912,
+    "frames": 207
+  },
+  "scene2": {
+    "file": "public/audio/narration/scene2.mp3",
+    "duration": 4.128,
+    "frames": 123
+  },
+  "scene3": {
+    "file": "public/audio/narration/scene3.mp3",
+    "duration": 3.792,
+    "frames": 113
+  },
+  "scene4": {
+    "file": "public/audio/narration/scene4.mp3",
+    "duration": 8.376,
+    "frames": 251
+  },
+  "scene5": {
+    "file": "public/audio/narration/scene5.mp3",
+    "duration": 3.0,
+    "frames": 90
+  },
+  "scene6": {
+    "file": "public/audio/narration/scene6.mp3",
+    "duration": 8.856,
+    "frames": 265
+  },
+  "scene7": {
+    "file": "public/audio/narration/scene7.mp3",
+    "duration": 8.16,
+    "frames": 244
+  },
+  "scene8": {
+    "file": "public/audio/narration/scene8.mp3",
+    "duration": 8.544,
+    "frames": 256
+  },
+  "scene9": {
+    "file": "public/audio/narration/scene9.mp3",
+    "duration": 6.456,
+    "frames": 193
+  },
+  "scene10": {
+    "file": "public/audio/narration/scene10.mp3",
+    "duration": 6.456,
+    "frames": 193
+  },
+  "scene11": {
+    "file": "public/audio/narration/scene11.mp3",
+    "duration": 4.008,
+    "frames": 120
+  },
+  "scene12": {
+    "file": "public/audio/narration/scene12.mp3",
+    "duration": 9.096,
+    "frames": 272
+  },
+  "scene13": {
+    "file": "public/audio/narration/scene13.mp3",
+    "duration": 4.704,
+    "frames": 141
+  }
+}
