@@ -88,27 +88,27 @@ export const TYPOGRAPHY = {
 
 // 场景定义
 export const SCENES = {
-  // 场景间隔帧数
-  SCENE_PAD: 15,
+  // 转场动画时长（帧）
+  TRANSITION_FRAMES: 15,
   
   // 帧率
   FPS: 30,
   
-  // 场景时长（帧）
+  // 场景时长（帧）- 基于实际音频长度
   durations: {
-    scene1: 150,  // 错误引入1 - a hour
-    scene2: 150,  // 错误引入2 - an university
-    scene3: 90,   // 影响陈述
-    scene4: 180,  // a vs an 规则
-    scene5: 60,   // 重点强调
-    scene6: 180,  // hour 举例
-    scene7: 180,  // university 举例
-    scene8: 180,  // the 用法引入
-    scene9: 150,  // the 举例 - sun
-    scene10: 150, // the 举例 - classroom
-    scene11: 60,  // 记忆口诀引入
-    scene12: 240, // 记忆口诀内容
-    scene13: 120, // 结束鼓励
+    scene1: 207,  // 错误引入1 - a hour (音频 6.912s)
+    scene2: 123,  // 错误引入2 - an university (音频 4.128s)
+    scene3: 113,  // 影响陈述 (音频 3.792s)
+    scene4: 251,  // a vs an 规则 (音频 8.376s)
+    scene5: 90,   // 重点强调 (音频 3.0s)
+    scene6: 265,  // hour 举例 (音频 8.856s)
+    scene7: 244,  // university 举例 (音频 8.16s)
+    scene8: 256,  // the 用法引入 (音频 8.544s)
+    scene9: 193,  // the 举例 - sun (音频 6.456s)
+    scene10: 193, // the 举例 - classroom (音频 6.456s)
+    scene11: 120, // 记忆口诀引入 (音频 4.008s)
+    scene12: 272, // 记忆口诀内容 (音频 9.096s)
+    scene13: 141, // 结束鼓励 (音频 4.704s)
   },
 };
 

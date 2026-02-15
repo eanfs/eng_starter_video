@@ -4,7 +4,7 @@ import {SCENES} from './constants';
 
 export const Root = () => {
   const totalFrames = Object.values(SCENES.durations).reduce((sum, duration) => {
-    return sum + duration + SCENES.SCENE_PAD;
+    return sum + duration;
   }, 0);
   
   return (
